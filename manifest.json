@@ -1,0 +1,38 @@
+{
+  "name": "ceyizlikelisleri.com",
+  "short_name": "CeyizlikElisleri",
+  "start_url": "https://www.ceyizlikelisleri.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#f24a4a",
+  "description": "En güzel el işi, yeni çeyizlik el işleri, iğne oyası, tığ oyası, oya modelleri, dantel modelleri, havlu süslemeleri çeyizlik örnekler.",
+  "icons": [{
+    "src": "https://3.bp.blogspot.com/-cC952tlT2Uo/W-nq0p7qqCI/AAAAAAAAADg/Ennrincz66EuPTuVudZX1G2PezaOPOmjwCLcBGAs/s48/elegance-of-crafts.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-cC952tlT2Uo/W-nq0p7qqCI/AAAAAAAAADg/Ennrincz66EuPTuVudZX1G2PezaOPOmjwCLcBGAs/s72/elegance-of-crafts.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-cC952tlT2Uo/W-nq0p7qqCI/AAAAAAAAADg/Ennrincz66EuPTuVudZX1G2PezaOPOmjwCLcBGAs/s96/elegance-of-crafts.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-cC952tlT2Uo/W-nq0p7qqCI/AAAAAAAAADg/Ennrincz66EuPTuVudZX1G2PezaOPOmjwCLcBGAs/s144/elegance-of-crafts.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-cC952tlT2Uo/W-nq0p7qqCI/AAAAAAAAADg/Ennrincz66EuPTuVudZX1G2PezaOPOmjwCLcBGAs/s168/elegance-of-crafts.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-cC952tlT2Uo/W-nq0p7qqCI/AAAAAAAAADg/Ennrincz66EuPTuVudZX1G2PezaOPOmjwCLcBGAs/s192/elegance-of-crafts.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-cC952tlT2Uo/W-nq0p7qqCI/AAAAAAAAADg/Ennrincz66EuPTuVudZX1G2PezaOPOmjwCLcBGAs/s512/elegance-of-crafts.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
